@@ -97,6 +97,8 @@ app_public_ip = "x.x.x.x"
 
 ## Screenshots
 
-- **terminal.png** → Terraform apply successful
-- **vpc.png** → AWS Console screenshot of the provisioned VPC
-- **ec2.png** → AWS Console screenshot of the running EC2 instance
+![Terraform apply successful](terminal.png)
+
+![AWS Console - VPC](vpc.png)
+
+![AWS Console - EC2 Instance](ec2.png)
