@@ -97,8 +97,14 @@ app_public_ip = "x.x.x.x"
 
 ## Screenshots
 
+### Terraform apply successful
+
 ![Terraform apply successful](terminal.png)
 
+### AWS VPC
+
 ![AWS Console - VPC](vpc.png)
+
+### AWS EC"
 
 ![AWS Console - EC2 Instance](ec2.png)
